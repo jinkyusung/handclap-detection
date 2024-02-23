@@ -1,7 +1,7 @@
 # **Hand-clap Detection Algorithm**
 
 ## **I.** Intro
-To detect anormal action of preschoolers during block building behavior, we implemented hand-clap detector based on a `mediapipe` landmarks metrics
+To detect abnormal action of preschoolers during block building behavior, we implemented hand-clap detector based on a `mediapipe` landmarks metrics
 
 ## **II.** Architecture Details
 
